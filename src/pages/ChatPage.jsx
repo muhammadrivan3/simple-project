@@ -29,9 +29,17 @@ function ChatPage() {
     setLoading(true)
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/api/chat/', {
+      // const response = await axios.post('http://127.0.0.1:8000/api/chat/', {
+      //   message: userInput
+      // })
+      // LOCAL
+      // const response = await axios.post('http://127.0.0.1:8000/api/chat/', {
+      //   message: userInput
+      // });
+      // PUBLIC
+      const response = await axios.post('https://chatbotapi-production-bef4.up.railway.app/api/chat/', {
         message: userInput
-      })
+      });
 
       const botReply = { text: response.data.reply, sender: "bot" }
       setMessages(prev => [...prev, botReply])
