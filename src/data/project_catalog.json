@@ -1,0 +1,360 @@
+{
+  "projectData": [
+    {
+      "id": 1,
+      "slug": "diagnosis",
+      "category": {
+        "en": "Diagnosis",
+        "in": "Diagnosis"
+      },
+      "projects": [
+        {
+          "id": 101,
+          "name": {
+            "en": "Expert System for Rabies Disease Diagnosis",
+            "in": "Sistem Pakar Diagnosa Penyakit Rabies"
+          },
+          "slug": "diagnosa-rabies",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is in development. Please be patient!",
+            "in": "Proyek ini sedang dalam tahap pengembangan. Harap bersabar!"
+          }
+        },
+        {
+          "id": 102,
+          "name": {
+            "en": "Expert System for COVID-19 Diagnosis",
+            "in": "Sistem Pakar Diagnosa COVID-19"
+          },
+          "slug": "diagnosa-covid19",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 103,
+          "name": {
+            "en": "Dental Disease Diagnosis using CF & Fuzzy",
+            "in": "Diagnosa Penyakit Gigi berbasis CF & Fuzzy"
+          },
+          "slug": "diagnosa-penyakit-gigi",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "cybersecurity",
+      "category": {
+        "en": "Cybersecurity",
+        "in": "Cybersecurity"
+      },
+      "projects": [
+        {
+          "id": 201,
+          "name": {
+            "en": "Intrusion Detection System (IDS) using ML",
+            "in": "Intrusion Detection System (IDS) berbasis ML"
+          },
+          "slug": "intrusion-detection-ml",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 202,
+          "name": {
+            "en": "Malware Classification with ANN",
+            "in": "Malware Classification dengan ANN"
+          },
+          "slug": "malware-classification-ann",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is in development and will be released soon.",
+            "in": "Proyek ini masih dalam tahap pengembangan dan akan segera dirilis."
+          }
+        },
+        {
+          "id": 203,
+          "name": {
+            "en": "Illegal Login Detection using Fuzzy",
+            "in": "Sistem Deteksi Login Ilegal menggunakan Fuzzy"
+          },
+          "slug": "deteksi-login-ilegal-fuzzy",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 204,
+          "name": {
+            "en": "Network Forensic Analysis with Decision Tree",
+            "in": "Analisis Forensik Jaringan dengan Decision Tree"
+          },
+          "slug": "forensik-jaringan-decision-tree",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "image-processing-computer-vision",
+      "category": {
+        "en": "Image Processing & Computer Vision",
+        "in": "Image Processing & Computer Vision"
+      },
+      "projects": [
+        {
+          "id": 301,
+          "name": {
+            "en": "Leaf Disease Detection Using CNN",
+            "in": "Deteksi Daun Sakit Menggunakan CNN"
+          },
+          "slug": "deteksi-daun-sakit-cnn",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 302,
+          "name": {
+            "en": "Face Recognition with CNN and OpenCV",
+            "in": "Pengenalan Wajah dengan CNN dan OpenCV"
+          },
+          "slug": "pengenalan-wajah-cnn-opencv",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 303,
+          "name": {
+            "en": "Medical Image Segmentation (Fuzzy)",
+            "in": "Segmentasi Citra untuk Medis (Fuzzy)"
+          },
+          "slug": "segmentasi-citra-medis-fuzzy",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is still in development. Please be patient!",
+            "in": "Proyek ini masih dalam tahap pengembangan. Harap bersabar!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "natural-language-processing-nlp",
+      "category": {
+        "en": "Natural Language Processing (NLP)",
+        "in": "Natural Language Processing (NLP)"
+      },
+      "projects": [
+        {
+          "id": 401,
+          "name": {
+            "en": "Product Review Sentiment Classification",
+            "in": "Klasifikasi Sentimen Ulasan Produk"
+          },
+          "slug": "klasifikasi-sentimen-ulas-penyakit",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 402,
+          "name": {
+            "en": "Hoax News Detection with BERT",
+            "in": "Pendeteksi Berita Hoax dengan BERT"
+          },
+          "slug": "pendeteksi-berita-hoax-bert",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 403,
+          "name": {
+            "en": "Self-Learning Chatbot with Django + Firebase",
+            "in": "Chatbot Self-Learning dengan Django + Firebase"
+          },
+          "slug": "chatbot-self-learning-django-firebase",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is still in development. Please be patient!",
+            "in": "Proyek ini masih dalam tahap pengembangan. Harap bersabar!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "decision-support-system-dss-umum",
+      "category": {
+        "en": "Decision Support System (DSS) General",
+        "in": "Decision Support System (DSS) Umum"
+      },
+      "projects": [
+        {
+          "id": 501,
+          "name": {
+            "en": "Laptop Selection Decision Support System",
+            "in": "Sistem Pendukung Keputusan Pemilihan Laptop"
+          },
+          "slug": "spk-pemilihan-laptop",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 502,
+          "name": {
+            "en": "Best Employee Selection DSS",
+            "in": "SPK Penentuan Karyawan Terbaik"
+          },
+          "slug": "spk-karyawan-terbaik",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 503,
+          "name": {
+            "en": "Strategic Business Location Selection DSS",
+            "in": "SPK Pemilihan Lokasi Usaha Strategis"
+          },
+          "slug": "spk-lokasi-usaha",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is still in development. Please be patient!",
+            "in": "Proyek ini masih dalam tahap pengembangan. Harap bersabar!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "perbankan-finansial",
+      "category": {
+        "en": "Banking & Financial",
+        "in": "Perbankan & Finansial"
+      },
+      "projects": [
+        {
+          "id": 601,
+          "name": {
+            "en": "Credit Scoring Prediction System",
+            "in": "Prediksi Kelayakan Kredit Nasabah"
+          },
+          "slug": "prediksi-kelayakan-kredit",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 602,
+          "name": {
+            "en": "Financial Transaction Fraud Detection",
+            "in": "Deteksi Fraud Transaksi Keuangan"
+          },
+          "slug": "deteksi-fraud-transaksi",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 603,
+          "name": {
+            "en": "Investment Risk Prediction",
+            "in": "Prediksi Risiko Investasi"
+          },
+          "slug": "prediksi-risiko-investasi",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is still in development. Please be patient!",
+            "in": "Proyek ini masih dalam tahap pengembangan. Harap bersabar!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "prediction-system",
+      "category": {
+        "en": "Prediction System",
+        "in": "Prediction System"
+      },
+      "projects": [
+        {
+          "id": 701,
+          "name": {
+            "en": "Stock Price Prediction",
+            "in": "Prediksi Harga Saham"
+          },
+          "slug": "prediksi-harga-saham",
+          "status": "completed",
+          "statusText": {
+            "en": "This project is completed and ready to use!",
+            "in": "Proyek ini telah selesai dan siap digunakan!"
+          }
+        },
+        {
+          "id": 702,
+          "name": {
+            "en": "Weather Prediction Using Historical Data",
+            "in": "Prediksi Cuaca Menggunakan Data Historis"
+          },
+          "slug": "prediksi-cuaca-data-historis",
+          "status": "in_progress",
+          "statusText": {
+            "en": "This project is in progress and will be completed soon.",
+            "in": "Proyek ini sedang dalam pengembangan dan akan segera selesai."
+          }
+        },
+        {
+          "id": 703,
+          "name": {
+            "en": "Sales Prediction with Time Series Model",
+            "in": "Prediksi Penjualan dengan Model Time Series"
+          },
+          "slug": "prediksi-penjualan-time-series",
+          "status": "coming_soon",
+          "statusText": {
+            "en": "This project is still in development. Please be patient!",
+            "in": "Proyek ini masih dalam tahap pengembangan. Harap bersabar!"
+          }
+        }
+      ]
+    }
+  ]
+}

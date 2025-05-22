@@ -1,0 +1,97 @@
+{
+  "decision_systems": [
+    {
+      "domain": "Diagnosis (Kesehatan, Gejala, Medis)",
+      "methods": [
+        "Certainty Factor (CF)",
+        "Dempster-Shafer Theory (DST)",
+        "Fuzzy Logic",
+        "Naive Bayes",
+        "Forward Chaining",
+        "Backward Chaining"
+      ],
+      "projects": [
+        "Sistem Pakar Diagnosa Penyakit Rabies",
+        "Sistem Pakar Diagnosa COVID-19",
+        "Diagnosa Penyakit Gigi berbasis CF & Fuzzy"
+      ]
+    },
+    {
+      "domain": "Cybersecurity",
+      "methods": [
+        "Decision Tree",
+        "Random Forest",
+        "SVM",
+        "ANN",
+        "KNN",
+        "Clustering (K-Means)",
+        "Fuzzy Logic",
+        "Certainty Factor"
+      ],
+      "projects": [
+        "Intrusion Detection System (IDS) berbasis ML",
+        "Malware Classification dengan ANN",
+        "Sistem Deteksi Login Ilegal menggunakan Fuzzy",
+        "Analisis Forensik Jaringan dengan Decision Tree"
+      ]
+    },
+    {
+      "domain": "Image Processing & Computer Vision",
+      "methods": [
+        "Convolutional Neural Network (CNN)",
+        "Fuzzy Logic (Image Segmentation)",
+        "K-Means Clustering",
+        "PCA + ANN"
+      ],
+      "projects": [
+        "Deteksi Daun Sakit Menggunakan CNN",
+        "Pengenalan Wajah dengan CNN dan OpenCV",
+        "Segmentasi Citra untuk Medis (Fuzzy)"
+      ]
+    },
+    {
+      "domain": "Natural Language Processing (NLP)",
+      "methods": [
+        "Naive Bayes",
+        "TF-IDF + SVM",
+        "Transformer (BERT, GPT, RoBERTa)",
+        "RNN / LSTM"
+      ],
+      "projects": [
+        "Klasifikasi Sentimen Ulasan Produk",
+        "Pendeteksi Berita Hoax dengan BERT",
+        "Chatbot Self-Learning dengan Django + Firebase"
+      ]
+    },
+    {
+      "domain": "Decision Support System (DSS) Umum",
+      "methods": [
+        "Fuzzy Logic",
+        "AHP (Analytical Hierarchy Process)",
+        "TOPSIS",
+        "SAW (Simple Additive Weighting)",
+        "Hybrid Methods (Fuzzy-AHP, AHP-TOPSIS)"
+      ],
+      "projects": [
+        "Sistem Pendukung Keputusan Pemilihan Laptop",
+        "SPK Penentuan Karyawan Terbaik",
+        "SPK Pemilihan Lokasi Usaha Strategis"
+      ]
+    },
+    {
+      "domain": "Perbankan & Finansial",
+      "methods": [
+        "Decision Tree",
+        "Naive Bayes",
+        "ANN",
+        "SVM",
+        "Logistic Regression"
+      ],
+      "projects": [
+        "Prediksi Kelayakan Kredit Nasabah",
+        "Deteksi Fraud Transaksi Keuangan",
+        "Prediksi Risiko Investasi"
+      ]
+    }
+  ]
+}

@@ -28,7 +28,8 @@ const menuItems = [
 
 function CardMenu() {
   return (
-    <div className="flex items-center justify-center p-8">
+    <div className="flex flex-col items-center justify-center p-8">
+      <span>Decision System</span>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         {menuItems.map((item, index) =>
           item.available ? (

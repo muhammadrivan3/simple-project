@@ -1,0 +1,31 @@
+{
+   "data_feature_system": {
+      "id": 1,
+      "name": "Diagnosis",
+      "description": "A system that provides data features for various applications.",
+      "features": [
+         {
+            "id": 1,
+            "name": "Sistem Pakar Diagnosa Penyakit Rabies",
+            "description": "Description of Feature A."
+         },
+         {
+            "id": 2,
+            "name": "Feature B",
+            "description": "Description of Feature B."
+         }
+      ],
+      "method": [
+         {
+            "id": 1,
+            "name": "Certainty Factor (CF)",
+            "description": "Description of Feature A."
+         },
+         {
+            "id": 2,
+            "name": "Feature B",
+            "description": "Description of Feature B."
+         }
+      ]
+   }
+}

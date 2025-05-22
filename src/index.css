@@ -1,1 +1,49 @@
 @import "tailwindcss";
+/* @custom-variant dark (&:where(.dark, .dark *)); */
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+/* === LIGHT THEME === */
+/* :root {
+  --color-bg: #f9f9fb;
+  --color-bg-soft: #f0f2f5;
+  --color-card: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-muted: #5e5e5e;
+  --color-primary: #4c1d95;      
+  --color-secondary: #ffc107;   
+  --color-border: #e0e0e0;
+  --color-shadow: rgba(0, 0, 0, 0.3);
+  --color-accent: #10b981;       
+} */
+
+/* === DARK THEME === */
+/* .dark {
+  --color-bg: #121212;
+  --color-bg-soft: #1e1e1e;
+  --color-card: #1a1a1a;
+  --color-text: #eeeeee;
+  --color-text-muted: #a0a0a0;
+  --color-primary: #c084fc;      
+  --color-secondary: #ffd700;   
+  --color-border: #2a2a2a;
+  --color-shadow: rgba(255, 255, 255, 0.3);
+  --color-accent: #34d399;      
+} */
+
+/* 
+:root {
+  --color-bg: #f9fafb;
+  --color-card: #ffffff;
+  --color-text: #1f2937;
+  --color-border: #e5e7eb;
+  --color-shadow: rgba(0, 0, 0, 0.06);
+  --color-hover-bg: #f3f4f6;
+}
+
+.dark {
+  --color-bg: #111827;
+  --color-card: #1f2937;
+  --color-text: #f9fafb;
+  --color-border: #374151;
+  --color-shadow: rgba(255, 255, 255, 0.05);
+  --color-hover-bg: #2d3748;
+} */
